@@ -8,3 +8,7 @@
 .row .row > div {
     background: #5F7DE6;
 }
+
+table, tr, td, tbody, thead {
+    border: 1px solid blue;
+}
